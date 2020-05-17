@@ -1,4 +1,4 @@
-# cs492-python-xo
+# tkinter-xo-game
 Intelligent XO game using tkinter
 
 this program is an upgrade from another one which was on the terminal.
