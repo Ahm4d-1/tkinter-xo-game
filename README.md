@@ -1,7 +1,7 @@
-# tkinter-xo-game
+# Tkinter XO Game
+
 Intelligent XO game using tkinter
 
-this program is an upgrade from another one which was on the terminal.
-I tried to make the win as hard as possible, there may be a better way for it, but this is how I have done it.
-
-I would appreciate your feedback.
+This program is an upgrade from another which was on terminal.
+Tried to make winning as hard as possible using logical human-like thinking, by looking for winning chances first, if not possible, block opponent's winning chances.
+There is definitely some room for imporvement.
